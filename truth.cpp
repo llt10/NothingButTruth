@@ -60,3 +60,8 @@ bool checkPrime(int num, const std::vector<int>& facs)
     }
     return product == num;
 }
+
+int main ()
+{
+    return 0;
+}
